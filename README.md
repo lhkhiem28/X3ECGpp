@@ -8,7 +8,6 @@ If you find the paper or the source code useful to your projects, please cite th
     author={Le, Khiem H. and Pham, Hieu H. and Nguyen, Thao Bt. and Nguyen, Tu A. and Thanh, Tien N. and Do, Cuong D. }, 
     booktitle={2022 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)}, 
     title={Enhancing Deep Learning-based 3-lead ECG Classification with Heartbeat Counting and Demographic Data Integration}, 
-    year={2022}, 
     pages={154-159}, 
     doi={10.1109/IECBES54088.2022.10079267}
 }
