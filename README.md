@@ -4,11 +4,11 @@ which is the 2nd part of our project on Reduced-lead ECG Classification. Check o
 
 If you find the paper or the source code useful to your projects, please cite the following BibTeX: 
 <pre>
-@INPROCEEDINGS{X3ECGpp, 
-    author={Le, Khiem H. and Pham, Hieu H. and Nguyen, Thao Bt. and Nguyen, Tu A. and Thanh, Tien N. and Do, Cuong D. }, 
-    booktitle={2022 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)}, 
-    title={Enhancing Deep Learning-based 3-lead ECG Classification with Heartbeat Counting and Demographic Data Integration}, 
-    pages={154-159}, 
-    doi={10.1109/IECBES54088.2022.10079267}
+@inproceedings{X3ECGpp, 
+    author      = {Le, Khiem H. and Pham, Hieu H. and Nguyen, Thao Bt. and Nguyen, Tu A. and Thanh, Tien N. and Do, Cuong D. }, 
+    title       = {Enhancing Deep Learning-based 3-lead ECG Classification with Heartbeat Counting and Demographic Data Integration}, 
+    booktitle   = {2022 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)}, 
+    pages       = {154-159}, 
+    doi         = {10.1109/IECBES54088.2022.10079267}
 }
 </pre>
